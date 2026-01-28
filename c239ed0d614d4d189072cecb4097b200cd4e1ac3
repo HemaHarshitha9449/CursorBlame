@@ -1,0 +1,23 @@
+main.go
+  48d0ee4487c8775a 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "c239ed0d614d4d189072cecb4097b200cd4e1ac3",
+  "prompts": {
+    "48d0ee4487c8775a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1e8590be-5cac-4f1a-8db9-4a34dc6f6fda",
+        "model": "default"
+      },
+      "human_author": "HemaHarshitha <cheedella.har@razorpay.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 0,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
